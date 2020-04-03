@@ -1,0 +1,14 @@
+{
+    "editor.renderWhitespace": "selection",
+    "editor.cursorStyle": "line-thin",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.mouseWheelZoom": true,
+    "editor.cursorBlinking": "expand",
+    "editor.formatOnPaste": true,
+    "files.hotExit": "onExitAndWindowClose",
+    "window.title": "${dirty}${activeEditorMedium}${separator}${rootName}${separator}${appName}",
+    "search.showLineNumbers": true,
+    "terminal.integrated.confirmOnExit": true,
+    "terminal.integrated.copyOnSelection": true,
+    "problems.showCurrentInStatus": true
+}
